@@ -1,0 +1,10 @@
+[
+    {
+        "name": "First Workspace",
+        "path": "/path/to/first/workspace"
+    },
+    {
+        "name": "Second Workspace",
+        "path": "/path/to/second/workspace"
+    }
+]
